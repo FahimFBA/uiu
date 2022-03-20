@@ -35,7 +35,7 @@
 
 
 
-## 🌟 Check out another Google Site created by one of our faculties regarding study resources: [UIU Portal CSE](https://sites.google.com/view/portalofuiu/departments/cse)
+## 🌟 Check out another Google Site created by one of our faculties regarding study resources: [UIU Portal CSE](https://sites.google.com/view/portalofuiu/departments/cse).  <i> It's very old and it isn't getting maintained anymore </i>
 
 <br>
 
