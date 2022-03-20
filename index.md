@@ -43,7 +43,7 @@
 
 <br>
 
-![Google Sheet](img/google-sheet.png)
+![Google Sheet](img/google-sheet.jpg)
 
 
 <br>
@@ -54,7 +54,7 @@
 
 <br>
 
-![Question](img/question.png)
+![Question](img/question.jpg)
 
 
 
