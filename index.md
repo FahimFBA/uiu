@@ -33,6 +33,10 @@
 
 <br>
 
+## 🌟 Check out another Google Site created by one of our faculties regarding study resources: [UIU Portal CSE](https://sites.google.com/view/portalofuiu/departments/cse)
+
+<br>
+
 | index | Course Name     | Question | Video Clips                                                                              | Faculty       | Courtesy                               |
 | ----- | --------------- | -------- | ---------------------------------------------------------------------------------------- | ------------- | -------------------------------------- |
 | 001   | Compiler Theory |          | [Google Drive](https://drive.google.com/drive/folders/14QZgtuNxCF8Jc4D6h25X_5olYL0u-wzS) | Nahid Hossain | Md Robayet Ahasan Rifat & ssadiq182117 |
