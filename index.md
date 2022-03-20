@@ -29,6 +29,10 @@
 
 <br>
 
+## ➡️ Until the whole list is getting updated, use the google sheets managed by one of our brothers, [Md Robayet Ahasan Rifat](https://www.facebook.com/greatrifatt): [Google Sheet](https://docs.google.com/spreadsheets/d/1ucoxBUG-Cf2zbpE71ehRNK5pEpmnpctLlaWasJu0faM/edit#gid=2111826296)
+
+<br>
+
 | index | Course Name     | Question | Video Clips                                                                              | Faculty       | Courtesy                               |
 | ----- | --------------- | -------- | ---------------------------------------------------------------------------------------- | ------------- | -------------------------------------- |
 | 001   | Compiler Theory |          | [Google Drive](https://drive.google.com/drive/folders/14QZgtuNxCF8Jc4D6h25X_5olYL0u-wzS) | Nahid Hossain | Md Robayet Ahasan Rifat & ssadiq182117 |
