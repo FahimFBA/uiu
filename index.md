@@ -21,7 +21,11 @@
 
 <br>
 
-## 🙏 Support everyone by providing resources (Questions / Video Clips) you have. Send a mail to [fahimbinamin@gmail.com](mailto:fahimbinamin@gmail.com) with the resources or anything necessary for the students. 
+## 🙏 Support everyone by providing resources (Questions) you have. Send a mail to [fahimbinamin@gmail.com](mailto:fahimbinamin@gmail.com) with the resources or anything necessary for the students. 
+
+<br>
+
+## 🙏 Support everyone by providing resources (Videos) you have. [Use this Google form for that](https://docs.google.com/forms/d/e/1FAIpQLSc3WuForA9-3QiiNnLPtfDSZh4cPAGQoZ8iaK-wT27i7a_yQw/viewform?pli=1).
 
 <br>
 
@@ -29,19 +33,18 @@
 
 <br>
 
-## ➡️ Until the whole list is getting updated, use the google sheets managed by one of our brothers, [Md Robayet Ahasan Rifat](https://www.facebook.com/greatrifatt): [Google Sheet](https://docs.google.com/spreadsheets/d/1ucoxBUG-Cf2zbpE71ehRNK5pEpmnpctLlaWasJu0faM/edit#gid=2111826296)
 
-<br>
 
 ## 🌟 Check out another Google Site created by one of our faculties regarding study resources: [UIU Portal CSE](https://sites.google.com/view/portalofuiu/departments/cse)
 
 <br>
 
-| index | Course Name     | Question | Video Clips                                                                              | Faculty       | Courtesy                               |
-| ----- | --------------- | -------- | ---------------------------------------------------------------------------------------- | ------------- | -------------------------------------- |
-| 001   | Compiler Theory |          | [Google Drive](https://drive.google.com/drive/folders/14QZgtuNxCF8Jc4D6h25X_5olYL0u-wzS) | Nahid Hossain | Md Robayet Ahasan Rifat & ssadiq182117 |
-|       |                 |          |                                                                                          |               |                                        |
-|       |                 |          |                                                                                          |               |                                        |
+
+## 🎥 Video Resources of the Courses
+
+### Use the [Google Sheet](https://docs.google.com/spreadsheets/d/1ucoxBUG-Cf2zbpE71ehRNK5pEpmnpctLlaWasJu0faM/edit#gid=2111826296). All of the courses are being added and updated here frequently by our brother, [Md Robayet Ahasan Rifat](https://www.facebook.com/greatrifatt). 
+
+![Google Sheet](img/google-sheet.png)
 
 
 
@@ -50,6 +53,4 @@
 
 
 
-
-
-<i> This project is completely managed voluntarily by a single person. </i>
+<i> Best of Luck! </i>
