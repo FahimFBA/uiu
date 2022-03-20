@@ -29,12 +29,6 @@
 
 <br>
 
-## 🎯 We don't support unethical tasks; therefore if any faculty wants to remove his/her resources, of course, we will remove that instantly.
-
-<br>
-
-
-
 ## 🌟 Check out another Google Site created by one of our faculties regarding study resources: [UIU Portal CSE](https://sites.google.com/view/portalofuiu/departments/cse).  <i> It's very old and it isn't getting maintained anymore </i>
 
 <br>
