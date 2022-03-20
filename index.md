@@ -4,7 +4,7 @@
 
 <br>
 
-![banner](img/banner-uiu.png)
+![banner](img/banner-uiu-resourses.jpg)
 
 <br>
 
