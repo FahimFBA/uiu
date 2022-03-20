@@ -42,10 +42,18 @@
 
 ## 🎥 Video Resources of the Courses
 
-### Use the [Google Sheet](https://docs.google.com/spreadsheets/d/1ucoxBUG-Cf2zbpE71ehRNK5pEpmnpctLlaWasJu0faM/edit#gid=2111826296). All of the courses are being added and updated here frequently by our brother, [Md Robayet Ahasan Rifat](https://www.facebook.com/greatrifatt). 
+### Use the [Google Sheet](https://docs.google.com/spreadsheets/d/1ucoxBUG-Cf2zbpE71ehRNK5pEpmnpctLlaWasJu0faM/edit#gid=2111826296). All of the courses are being added and updated here frequently by our brother, [Md Robayet Ahasan Rifat](https://www.facebook.com/greatrifatt). Use your UIU provided Google account to access. If you can't view the sheet, then click `"Request Access"`.
 
 ![Google Sheet](img/google-sheet.png)
 
+
+<br>
+
+## 📑 Questions of the Courses
+
+### Use the [Google Sheet](https://docs.google.com/spreadsheets/d/1N43A4J_NYDzPlMT6URAw6yTkj0E1HT2GyWEwsKFls3o/edit?usp=sharing). All of the courses are being added and updated here frequently by me. Use your UIU provided Google account to access. If you can't view the sheet, then click `"Request Access"`.
+
+**It's Ongoing**.
 
 
 
