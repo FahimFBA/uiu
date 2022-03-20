@@ -21,8 +21,27 @@
 
 <br>
 
+## 🙏 Support everyone by providing resources (Questions / Video Clips) you have. Send a mail to [fahimbinamin@gmail.com](mailto:fahimbinamin@gmail.com) with the resources or anything necessary for the students. 
+
+<br>
+
+## 🎯 We don't support unethical tasks; therefore if any faculty wants to remove his/her resources, of course, we will remove that instantly.
+
+<br>
+
 | index | Course Name     | Question | Video Clips                                                                              | Faculty       | Courtesy                               |
 | ----- | --------------- | -------- | ---------------------------------------------------------------------------------------- | ------------- | -------------------------------------- |
 | 001   | Compiler Theory |          | [Google Drive](https://drive.google.com/drive/folders/14QZgtuNxCF8Jc4D6h25X_5olYL0u-wzS) | Nahid Hossain | Md Robayet Ahasan Rifat & ssadiq182117 |
 |       |                 |          |                                                                                          |               |                                        |
 |       |                 |          |                                                                                          |               |                                        |
+
+
+
+
+
+
+
+
+
+
+<i> This project is completely managed voluntarily by a single person. </i>
