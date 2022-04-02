@@ -29,14 +29,6 @@
 
 <br>
 
-## 🌟 Check out another Google Site created by one of our faculties regarding study resources: [UIU Portal CSE](https://sites.google.com/view/portalofuiu/departments/cse).  <i> It's very old and it isn't getting maintained anymore </i>
-
-<br>
-
-## 🌠 Check another website where you can find a lot of course material of CSE department. [UIU CSE COURSE MATERIALS](https://sites.google.com/bscse.uiu.ac.bd/uiucoursematerials/home)
-
-<br>
-
 ## 🎥 Video Resources of the Courses
 
 ### Use the [Google Sheet](https://docs.google.com/spreadsheets/d/1ucoxBUG-Cf2zbpE71ehRNK5pEpmnpctLlaWasJu0faM/edit#gid=2111826296). All of the courses are being added and updated here frequently by our brother, [Md Robayet Ahasan Rifat](https://www.facebook.com/greatrifatt). Use your UIU provided Google account to access. If you can't view the sheet, then click `"Request Access"`.
@@ -56,8 +48,15 @@
 
 ![Question](img/question.jpg)
 
+<br>
 
+## 🌟 Check out another Google Site created by one of our faculties regarding study resources: [UIU Portal CSE](https://sites.google.com/view/portalofuiu/departments/cse).  <i> It's very old and it isn't getting maintained anymore </i>
 
+<br>
+
+## 🌠 Check another website where you can find a lot of course material of CSE department. [UIU CSE COURSE MATERIALS](https://sites.google.com/bscse.uiu.ac.bd/uiucoursematerials/home)
+
+<br>
 
 
 
