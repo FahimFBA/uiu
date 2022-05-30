@@ -18,14 +18,19 @@
 
 ## 🪲 If the link actually doesn't exist, then let us know in the discord server.
 
-
 <br>
 
 ## 🙏 Support everyone by providing resources (Questions) you have. Send a mail to [fahimbinamin@gmail.com](mailto:fahimbinamin@gmail.com) with the resources or anything necessary for the students. 
 
 <br>
 
-## 🙏 Support everyone by providing resources (Videos) you have. [Use this Google form for that](https://docs.google.com/forms/d/e/1FAIpQLSc3WuForA9-3QiiNnLPtfDSZh4cPAGQoZ8iaK-wT27i7a_yQw/viewform?pli=1).
+## 📑 Questions of the Courses
+
+### Use the [Google Sheet](https://docs.google.com/spreadsheets/d/1N43A4J_NYDzPlMT6URAw6yTkj0E1HT2GyWEwsKFls3o/edit?usp=sharing). All of the courses are being added and updated here frequently by me. Use your UIU provided Google account to access. If you can't view the sheet, then click `"Request Access"`. The sheet is also getting updated frequently.
+
+<br>
+
+![Question](img/question.jpg)
 
 <br>
 
@@ -37,17 +42,6 @@
 
 ![Google Sheet](img/google-sheet.jpg)
 
-
-<br>
-
-
-## 📑 Questions of the Courses
-
-### Use the [Google Sheet](https://docs.google.com/spreadsheets/d/1N43A4J_NYDzPlMT6URAw6yTkj0E1HT2GyWEwsKFls3o/edit?usp=sharing). All of the courses are being added and updated here frequently by me. Use your UIU provided Google account to access. If you can't view the sheet, then click `"Request Access"`. The sheet is also getting updated frequently.
-
-<br>
-
-![Question](img/question.jpg)
 
 <br>
 
