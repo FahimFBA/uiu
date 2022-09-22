@@ -10,7 +10,7 @@
 <br>
 
 
-# The Founder has scheduled the deletion of this Question Bank. Best wishes to those shitty haters now.
+# ❌ The Founder has scheduled the deletion of this Question Bank. Best wishes to those shitty haters now.
 
 <s>
 
@@ -27,8 +27,6 @@
   </s>
   
 
-
-![Question](img/im.png)
 
 <br>
 
