@@ -16,8 +16,6 @@
 
 ## Moreover, I might do another thing which I was going to do. A new Channel has been created with ALL OF THE COURSE VIDEOS (Those will be unlisted and only the students of UIU will get access to them). As I gathered all of the questions all together by myself, I did the same for the videos as well.
 
-Thank you.  
-
 
 
 ## আমাদের আলাদা ডিসকর্ড সার্ভার ও আছে এই প্রশ্নব্যাংক নিয়ে। চাইলে এই [ইনভাইটেশন লিংক](https://discord.gg/6ckYPXmSSK) দিয়ে জয়েন করতে পারেন।
@@ -42,7 +40,7 @@ Thank you.
 
 <br>
 
-  </s>
+
 
 
 <i> Best of Luck! </i>
