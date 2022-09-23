@@ -10,7 +10,13 @@
 <br>
 
 
-# ❌ The Founder has scheduled the deletion of this Question Bank. Best wishes to those shitty haters now.
+# ⭐ Well, I am shocked to see that still many of you want the QuestionBank to be alive. I can do this one last time if I get enough volunteers.
+
+## If you want to be a volunteer in this project, let me know in the messenger. I would create a session after this final ends, and we will discuss how we would proceed in the future. We will restrict public access even more so that only the registered users get access only to those courses' questions for which they have subscribed for that trimester. Note that, this service will always be free of cost.
+
+## Moreover, I might do another thing which I was going to do. A new Channel has been created with ALL OF THE COURSE VIDEOS (Those will be unlisted and only the students of UIU will get access to them). As I gathered all of the questions all together by myself, I did the same for the videos as well.
+
+Thank you.  
 
 <s>
 
