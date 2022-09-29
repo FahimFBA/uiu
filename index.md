@@ -13,7 +13,7 @@
 # ⭐ UIU's the largest Question Bank is becoming the largest RESOURCE BANK with all of the video content altogether! 👏
 
 
-# 📹 Video Resources (Use your UIU provided Google account to access them)
+# 📹 Video Resources (Refresh/Clean your browser history and cache to get the updated version if that doesn't happen automatically in your case)
 
  [Click here](https://light-fortnight-d34.notion.site/United-International-University-Video-Resources-506575bd970c46c4974c27f212608715)
 
