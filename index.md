@@ -10,12 +10,12 @@
 <br>
 
 
-# ⭐ Well, I am shocked to see that still many of you want the QuestionBank to be alive. I can do this one last time if I get enough volunteers.
+# ⭐ UIU's the largest Question Bank is becoming the largest RESOURCE BANK with all of the video content altogether! 👏
 
 
 # 📹 Video Resources (Use your UIU provided Google account to access them)
 
-[Go to the Spreadsheet](https://docs.google.com/spreadsheets/d/1PtV9Jo18agn4Wnb4c6m0uxfZhA0vgwSJFBrrs_9KGok/edit?usp=sharing)
+ [Click here](https://light-fortnight-d34.notion.site/United-International-University-Video-Resources-506575bd970c46c4974c27f212608715)
 
 ## If you want to be a volunteer in this project, let me know in the messenger. I would create a session after this final ends, and we will discuss how we would proceed in the future. We will restrict public access even more so that only the registered users get access only to those courses' questions for which they have subscribed for that trimester. Note that, this service will always be free of cost.
 
