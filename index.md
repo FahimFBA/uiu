@@ -13,13 +13,9 @@
 # ⭐ UIU's the largest Question Bank is becoming the largest RESOURCE BANK with all of the video content altogether! 👏
 
 
-# 📹 Video Resources (Refresh/Clean your browser history and cache to get the updated version if that doesn't happen automatically in your case)
+# 📹 Video Resources 
 
-## ➡️  [Click here](https://light-fortnight-d34.notion.site/United-International-University-Video-Resources-506575bd970c46c4974c27f212608715)
-
-## If you want to be a volunteer in this project, let me know in the messenger. I would create a session after this final ends, and we will discuss how we would proceed in the future. We will restrict public access even more so that only the registered users get access only to those courses' questions for which they have subscribed for that trimester. Note that, this service will always be free of cost.
-
-## Moreover, I might do another thing which I was going to do. A new Channel has been created with ALL OF THE COURSE VIDEOS (Those will be unlisted and only the students of UIU will get access to them). As I gathered all of the questions all together by myself, I did the same for the videos as well.
+## ➡️  [Click here - USE your UIU provided GMail account](https://docs.google.com/spreadsheets/d/1oyQ2w1x0SUIxx9xXzguE65YdeIhBm12-z6W5bd12Nko/edit?usp=sharing)
 
 
 ## ✨ অফিশিয়াল ফেইসবুক গ্রুপ [জয়েন করুন](https://www.facebook.com/groups/620784936320616)।
