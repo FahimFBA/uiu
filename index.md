@@ -68,7 +68,6 @@
 * Nur Hossain Nazim
 * Nusrat Jahan
 * Sheikh Tanvir Ahmed
-* Shahriar Rahman Niloy
 
 <br>
 
