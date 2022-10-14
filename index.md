@@ -19,7 +19,7 @@
 
 # 📹 Video Resources 
 
-## ➡️  [Click here - USE your UIU provided Google account](https://docs.google.com/spreadsheets/d/1oyQ2w1x0SUIxx9xXzguE65YdeIhBm12-z6W5bd12Nko/edit?usp=sharing)
+## ➡️  [Click here to get the Official YouTube channel of our team](https://www.youtube.com/channel/UCW8Ip52j7U_F5UUNSqtUeiQ/featured)
 
 
 ## ✨ অফিশিয়াল ফেইসবুক গ্রুপ: [জয়েন করুন](https://www.facebook.com/groups/620784936320616)
