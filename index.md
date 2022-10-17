@@ -60,16 +60,16 @@
 <br>
 
 ### Our Team Members:
-* Md. Fahim Bin Amin (Founder)
-* Fatema Akther Mumu
-* Md. Asif Khan
-* S. M Shihab Adnan Saad
-* Muhammad Zakaria
+* Md. Fahim Bin Amin ( **Founder of the Project and Chief of Every Team** )
+* Fatema Akther Mumu ( **Team Leader for Facebook Group** )
+* Md. Asif Khan ( **Team Leader for Discord Server** )
+* S. M Shihab Adnan Saad 
+* Muhammad Zakaria ( **Team Leader for Discord Server** )
 * MD Shebli Shadek Shemul  
 * Mahfuzur Rahman 
 * Nur Hossain Nazim
 * Nusrat Jahan
-* Sheikh Tanvir Ahmed
+* Sheikh Tanvir Ahmed ( **Team Leader for Question Bank** )
 
 <br>
 
