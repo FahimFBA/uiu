@@ -21,8 +21,6 @@
 
 ## 💡 [Click here to access the complete list in a Google Spreadsheet - USE YOUR UIU GOOGLE ACCOUNT TO ACCESS](https://docs.google.com/spreadsheets/d/1B8BggH1A5OYUVSgGG8p0RRcNcSJqHeEmooZLzrTTueU/edit?usp=sharing)
 
-## ➡️  [Click here to get the Official YouTube channel of our team](https://www.youtube.com/channel/UCW8Ip52j7U_F5UUNSqtUeiQ/featured)
-
 
 ## ✨ অফিশিয়াল ফেইসবুক গ্রুপ: [জয়েন করুন](https://www.facebook.com/groups/620784936320616)
 
