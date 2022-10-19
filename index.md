@@ -74,4 +74,4 @@
 <br>
 
 
-<i> Best of Luck! </i>
+<i> Study Well, Practice Hard, and Give Your Best in the Exams. </i>
