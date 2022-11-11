@@ -9,3 +9,6 @@
 ---------
 
 ## 🤝 The Largest Resource Bank in history for UIU hereby dies with us.
+
+
+#### The founder and chief of this project is signing off. 〽
