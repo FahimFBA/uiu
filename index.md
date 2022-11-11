@@ -4,6 +4,7 @@
 ### 📦 Official Facebook Group (UIU Study Resources - The Largest Study Bank/Resources): 🔴 Deleted Permanently within 6 hours after shutting down the project.
 ### 📦 Official Discord Server (UIU Study Resources): 🔴 Deleted Permanently within 8 hours after shutting down the project.
 ### 📦 Official YouTube Channel (UIU Study Resources - The Largest Resource Bank of UIU): 🔴 Deleted Permanently within 4 hours after shutting down the project.
+### 📦 Official Question Server Vault: 🔴 Deleted Permanently within 13 hours after shutting down the project.
 
 
 ---------
